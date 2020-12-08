@@ -1,0 +1,14 @@
+{
+  "name": "com.hereafterpvt.logbot",
+  "version": "0.0.5",
+  "description": "this bot will help to recieve and send logs from aws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhilash Badgujar",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
